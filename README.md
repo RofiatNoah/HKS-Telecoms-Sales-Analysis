@@ -1,6 +1,6 @@
 # Gadget Sales & Business Performance Analysis | HKS Telecoms 📱
 
-![Dashboard Screenshot](./HKS_Telecoms.png)
+![Dashboard Screenshot](HKS_Telecoms.png)
 
 ## 📋 Table of Contents
 * [Project Overview](#-project-overview)
@@ -43,8 +43,8 @@ This project demonstrates the ability to turn static numbers into a "business st
 ---
 
 ## 📂 Repository Contents
-* [HKS_Telecoms_Analysis](./HKS_Telecoms_Analysis) - Main Excel file.
-* [Dashboard Preview](./HKS_Telecoms) - High-resolution screenshot of the dashboard.
+* [HKS_Telecoms_Analysis](HKS_Telecoms_Analysis.xlsx) - Main Excel File
+* [Dashboard Preview](HKS_Telecoms.png) - High-resolution screenshot of the dashboard.
 ---
 
 ## 📫 Contact & Collaboration
