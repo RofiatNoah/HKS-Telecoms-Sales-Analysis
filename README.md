@@ -1,6 +1,6 @@
 # Gadget Sales & Business Performance Analysis | HKS Telecoms 📱
 
-![Dashboard Screenshot](./HKS_Telecoms)
+![Dashboard Screenshot](./HKS_Telecoms.png)
 
 ## 📋 Table of Contents
 * [Project Overview](#-project-overview)
