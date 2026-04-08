@@ -1,6 +1,6 @@
 # Gadget Sales & Business Performance Analysis | HKS Telecoms 📱
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](HKS_Telecoms.png)
 
 ## 📋 Table of Contents
 * [Project Overview](#-project-overview)
@@ -43,8 +43,7 @@ This project demonstrates the ability to turn static numbers into a "business st
 ---
 
 ## 📂 Repository Contents
-* **`HKS_Telecoms_Analysis.xlsx`**: The primary Excel file containing the Power Query model and the Interactive Dashboard.
-* **`dashboard_screenshot.png`**: A high-resolution preview of the final BI tool.
+* **`HKS_Telecoms_Analysis`**: The primary Excel file containing the Power Query model and the Interactive Dashboard.
 
 ---
 
